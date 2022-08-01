@@ -1,0 +1,50 @@
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe.config
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.pdb
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csprojAssemblyReference.cache
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form1.resources
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Properties.Resources.resources
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.GenerateResource.cache
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CoreCompileInputs.cache
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CopyComplete
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.exe
+C:\Users\Alin\Desktop\Proiect SGBD\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.pdb
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe.config
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.pdb
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csprojAssemblyReference.cache
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form1.resources
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Properties.Resources.resources
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.GenerateResource.cache
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CoreCompileInputs.cache
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CopyComplete
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.exe
+C:\Users\dudu\Desktop\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.pdb
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe.config
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.pdb
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csprojAssemblyReference.cache
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form1.resources
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Properties.Resources.resources
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.GenerateResource.cache
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CoreCompileInputs.cache
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CopyComplete
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.exe
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.pdb
+C:\Users\Alin\Desktop\Proiect SGBD\New folder (2)\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form2.resources
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe.config
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.exe
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\bin\Debug\PrimaSGBD.pdb
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csprojAssemblyReference.cache
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form1.resources
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Form2.resources
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.Properties.Resources.resources
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.GenerateResource.cache
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CoreCompileInputs.cache
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.csproj.CopyComplete
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.exe
+C:\Users\dudu\Desktop\PrimaSGBD\PrimaSGBD\obj\Debug\PrimaSGBD.pdb
